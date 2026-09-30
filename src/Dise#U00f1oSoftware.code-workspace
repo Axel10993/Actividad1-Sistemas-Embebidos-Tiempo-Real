@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../UNAQ/10mo/DiseñoSoftware"
+		},
+		{
+			"name": "Display7Seg",
+			"path": ".."
+		},
+		{
+			"name": "Display7Seg2",
+			"path": "../../Display7Seg2"
+		}
+	],
+	"settings": {}
+}
